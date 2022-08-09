@@ -1,0 +1,20 @@
+[
+  {
+    "modid": "allowalltp",
+    "name": "AllowAllTP",
+    "description": "Allows all players to teleport to any other player and visa versa.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Tehcn"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": [],
+    "serverSideOnly": true,
+    "acceptableRemoteVersions": "*"
+  }
+]
